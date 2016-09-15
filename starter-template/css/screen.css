@@ -3,5 +3,24 @@
 /* Example: adding a background color to the HTML body */
 body {
   /* #ccc is shorthand HEX for a light grey */
-  background: #ccc;
+  background-color: #ccc;
+  margin: 2cm 4cm 3cm 4cm;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Helvitica;
+     font-style: italic;
+      color: #004060;
+
+}
+h1 {
+
+}
+
+img {
+  margin: auto;
+}
+
+p {
+  font-family: arial;
+  word-wrap: break-word;
 }
