@@ -1,0 +1,18 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #ccc;
+}
+p.classy {
+  font-size: 22px;
+}
+
+h1#header {
+  font-family: Helvetica;
+}
+
+h1#header2 {
+  font-family: Arial;
+}
