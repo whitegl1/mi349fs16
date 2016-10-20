@@ -1,0 +1,50 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #ccc;
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  background: #fff;
+  border-radius: 40px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.2);
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 1em;
+  text-align: left;
+  width: 900px;
+  background: linear-gradient(to top left, #FFFFFF 0%, #3366FF 100%);
+}
+
+.card--header {
+  color: #2c3e50;
+  font-size: 3.2em;
+  font-weight: 100;
+  margin: 0;
+}
+
+.card--title1 {
+  color: #2c3e50;
+  margin: 0.2em 0 0 0;
+}
+
+.card--title2 {
+
+  margin: 0.2em 0 0 0;
+}
+
+.card--image {
+  border:1px solid #021a40
+  display: inline;
+  margin: center;
+  padding: 1em;
+}
+
+.card--inline {
+  display: inline
+}
